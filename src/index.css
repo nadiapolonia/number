@@ -10,3 +10,41 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+main {
+  text-align: center;
+  margin-top: 7rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: blueviolet;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+h3 {
+  margin-bottom: 3rem;
+}
+
+input {
+  margin-bottom: 3rem;
+}
+
+.message {
+  margin-top: 3rem;
+  padding: 2rem;
+  height: 5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.random {
+  font-size: 18px;
+  text-decoration: underline;
+}
